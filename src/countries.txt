@@ -1,0 +1,7 @@
+America	330	Washington
+England	66	London
+Japan	126	Tokyo
+Poland	38	Warsaw
+France	67	Paris
+Russia	146	Moscow
+Austria	9	Vienna
